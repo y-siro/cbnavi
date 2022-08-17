@@ -1,0 +1,4 @@
+C:\Users\이규열\source\repos\cbnavi\Release\cbnavi.exe
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\Release\cbnavi.exe
+C:\Users\이규열\OneDrive - 충북대학교\바탕 화면\codetibro\c++\2-2 프로그래밍 프로젝트\cbnavi\Release\cbnavi.exe
+C:\Users\이규열\Desktop\프프\cbnavi\Release\cbnavi.exe

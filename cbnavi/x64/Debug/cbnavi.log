@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\main.cpp(46,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\main.cpp(46,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\main.cpp(62,9): warning C4101: 'event' :참조되지 않은 지역 변수입니다.
+  map.cpp
+  search.cpp
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\search.cpp(639,5): error C2653: 'fd': 클래스 또는 네임스페이스 이름이 아닙니다.
+  코드를 생성하고 있습니다...

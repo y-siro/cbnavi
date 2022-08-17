@@ -1,0 +1,2 @@
+C:\Users\이규열\source\repos\cbnavi\x64\Release\cbnavi.exe
+C:\Users\dlrbd\OneDrive - 충북대학교\code\cbnavi\cbnavi\x64\Release\cbnavi.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\이규열\source\repos\cbnavi\main.cpp(19,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\이규열\source\repos\cbnavi\main.cpp(19,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  map.cpp
+  search.cpp
+C:\Users\이규열\source\repos\cbnavi\search.cpp(50,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  cbnavi.vcxproj -> C:\Users\이규열\source\repos\cbnavi\Debug\cbnavi.exe

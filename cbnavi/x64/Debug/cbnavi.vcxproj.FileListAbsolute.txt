@@ -1,0 +1,2 @@
+C:\Users\이규열\source\repos\cbnavi\x64\Debug\cbnavi.exe
+C:\Users\이규열\source\repos\cbnavi\x64\Debug\cbnavi.pdb
